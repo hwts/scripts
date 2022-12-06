@@ -1,4 +1,4 @@
-# scripts
+# Postgre db backup script
 
 Создание резервных копий баз Postgresql, с автоматическим удалением старых копий.
 
